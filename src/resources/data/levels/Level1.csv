@@ -1,0 +1,2 @@
+monsters,meteor_cooldown,meteor_speed1,meteor_speed2,meteor_speed3,wizard_speed,win_condition,last_level
+100,1500,1,5,10,1000,4,false
